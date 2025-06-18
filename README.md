@@ -13,4 +13,5 @@ Results:
 The results indicate that GPT-2 exhibits some limited sensitivity to semantic relationships under negation; however, it does not consistently demonstrate sensitivity to the logical meaning of negation itself. Specifically, surprisal was slightly higher for semantically similar completions compared to logical opposite completions, aligning with our prediction if the model was sensitive to negation. However, contrary to predictions, the surprisal for completions with the same word as the subject is lower than both of these conditions. This suggests that the differences may be due to token familiarity and frequency rather than logical reasoning for negation.
 
 This code was completed in Python within a Google Colab Notebook. This project was created as a final project for the UCSD course COGS 150: Large Language Models
+
 Author: Amanda Chang (2025)
